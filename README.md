@@ -767,14 +767,6 @@ For questions, issues, or feedback:
 
 ---
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/AI-First-CRM-HCP-Module)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/AI-First-CRM-HCP-Module)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/AI-First-CRM-HCP-Module)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/AI-First-CRM-HCP-Module)
-
----
 
 <div align="center">
 
